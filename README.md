@@ -10,7 +10,8 @@ This is a really bad fork of Better-Reload by Benzi with more customization opti
 - **Client Settings** Saves every clients settings after backend restarts or game crashes
 - **Item Shop Bundles** Create bundles with custom names, items and more
 - **Shop Tags** Tags that appear above any item like ***NEW!***, ***ONE TIME OFFER!***, ***REACTS TO MUSIC*** are all available
-- **Semi-Matchmaking Bans** - The matchmaker immediately kicks anyone with a matchmaking ban applied out of the queue
+- **Semi-Matchmaking Bans** The matchmaker immediately kicks anyone with a matchmaking ban applied out of the queue
+- **Poo Caching System** Speeds up loading times, item selecting and more
 
 ## SETUP 
 
