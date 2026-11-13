@@ -13,6 +13,8 @@ This is a really bad fork of Better-Reload by Benzi with more customization opti
 - **Semi-Matchmaking Bans** The matchmaker immediately kicks anyone with a matchmaking ban applied out of the queue
 - **Poo Caching System** Speeds up loading times, item selecting and more
 
+- *Everything else was untouched*
+
 ## SETUP 
 
 Head over to `Config/config.json` and configure all options that are there including moderators, discord bot and more. 
