@@ -1,0 +1,68 @@
+{
+  "contentType": "collection",
+  "contentId": "motd-default-collection",
+  "tcId": "634e8e85-e2fc-4c68-bb10-93604cf6605f",
+  "contentItems": [
+    {
+      "contentType": "content-item",
+      "contentId": "46874c56-0973-4cbe-ac98-b580c5b36df5",
+      "tcId": "61fb3dd8-f23d-45cc-9058-058ab223ba5c",
+      "contentFields": {
+        "body": {
+          "ar": "Welcome to Better-Better Reload , made by faris!",
+          "en": "Welcome to Better-Better Reload , made by faris!",
+          "de": "Welcome to Better-Better Reload , made by faris!",
+          "es": "Welcome to Better-Better Reload , made by faris!",
+          "es-419": "Welcome to Better-Better Reload , made by faris!",
+          "fr": "Welcome to Better-Better Reload , made by faris!",
+          "it": "Welcome to Better-Better Reload , made by faris!",
+          "ja": "Welcome to Better-Better Reload , made by faris!",
+          "ko": "Welcome to Better-Better Reload , made by faris!",
+          "pl": "Welcome to Better-Better Reload , made by faris!",
+          "pt-BR": "Welcome to Better-Better Reload , made by faris!",
+          "ru": "Welcome to Better-Better Reload , made by faris!",
+          "tr": "Welcome to Better-Better Reload , made by faris!"
+        },
+        "entryType": "Website",
+        "image": [
+          {
+            "width": 1920,
+            "height": 1080,
+            "url": "https://i.postimg.cc/PJTFSbxC/b7a18832-a035-45a8-8c8e-4dd8963c0d1d.jpg"
+          }
+        ],
+        "tabTitleOverride": "Better Better Reload",
+        "tileImage": [
+          {
+            "width": 1024,
+            "height": 512,
+            "url": "https://i.postimg.cc/pXdsyL5C/948fb4df-bbcb-4423-9088-9533dd1f2a4c.jpg"
+          }
+        ],
+        "title": {
+          "ar": "Better Better Reload",
+          "en": "Better Better Reload",
+          "de": "Better Better Reload",
+          "es": "Better Better Reload",
+          "es-419": "Better Better Reload",
+          "fr": "Better Better Reload",
+          "it": "Better Better Reload",
+          "ja": "Better Better Reload",
+          "ko": "Better Better Reload",
+          "pl": "Better Better Reload",
+          "pt-BR": "Better Better Reload",
+          "ru": "Better Better Reload",
+          "tr": "Better Better Reload"
+        },
+        "videoAutoplay": false,
+        "videoLoop": false,
+        "videoMute": false,
+        "videoStreamingEnabled": false,
+        "websiteButtonText": "DISCORD",
+        "websiteURL": "https://discord.gg/fCgJYrvjHX"
+      },
+      "contentHash": "reloadbackendcontenthashtylawin",
+      "contentSchemaName": "MotdWebsiteNewsWithVideo"
+    }
+  ]
+}
