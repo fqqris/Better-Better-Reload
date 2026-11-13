@@ -19,11 +19,11 @@ Head back over to the main file and run `start.bat`, everything else including i
 
 ## DISCORD BOT COMMANDS
 
-`create` Creates your account using random numbers and letters
-`latency` Check the backends latency
-`itemsfill` Gives a user every item in the game
-`permissionadd` Gives a user backend permission
-`ban` Bans a user
+- `create` Creates your account using random numbers and letters
+- `latency` Check the backends latency
+- `itemsfill` Gives a user every item in the game
+- `permissionadd` Gives a user backend permission
+- `ban` Bans a user
 
 - *Note: I removed almost every command from this to not rely on discord but a dashboard which I have not included so sorry for that*
 
