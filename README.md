@@ -39,3 +39,7 @@ Planned features:
 - **Frontend (Panel)** 
 - **Fixed parties** 
 - **Gifting** *(I think gifting works right now but I could be wrong)*
+
+## Contribute to the repo
+
+If you want to contribut to this backend, feel free! You can also message me on discord @fqriis
